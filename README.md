@@ -7,5 +7,5 @@
 >
 > Dictionary     
 > 
-> Generater   
+> Generator   
 >
